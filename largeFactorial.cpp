@@ -1,5 +1,6 @@
 /*
 Given an integer n, find and print the factorial of given integer
+Involve things like
 */
 
 #define MAX 1000000
